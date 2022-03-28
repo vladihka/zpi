@@ -1,5 +1,1 @@
-ZPI
-
-maksim
-
-BaGy
+solving
